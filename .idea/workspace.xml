@@ -10,9 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="55d143dc-24cd-4413-9c35-2aab56020098" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="55d143dc-24cd-4413-9c35-2aab56020098" name="Default Changelist" comment="" />
+>>>>>>> xiaohigh
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600780110019</updated>
+<<<<<<< HEAD
       <workItem from="1600780111423" duration="707000" />
+=======
+      <workItem from="1600780111423" duration="384000" />
+>>>>>>> xiaohigh
     </task>
     <servers />
   </component>
